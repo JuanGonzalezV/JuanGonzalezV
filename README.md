@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **JuanGonzalezV/JuanGonzalezV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### About Me
@@ -13,5 +12,3 @@
 - 🌱 Worked in climate & hydrology projects.  
 - 🏆 Awarded for excellence in research and innovation.  
 - 🎨 Volunteered researcher.  
-
--->
