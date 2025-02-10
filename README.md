@@ -12,11 +12,9 @@
 - 🎨 Volunteered researcher.  
 
 
-<small>
-
+<tiny>
   ℹ️ **Disclaimer**
 
-
--The code and projects shared here are *partial implementations* and represent only a portion of larger projects I have worked on. These snippets are shared for educational and demonstration purposes only. Please note that some code and projects cannot be published due to confidentiality agreements with the companies and organizations I have worked with. These unpublished components often include proprietary algorithms, sensitive data, or internal tools that are not publicly shareable.  
-</small>
+The code and projects shared here are *partial implementations* and represent only a portion of larger projects I have worked on. These snippets are shared for educational and demonstration purposes only. Please note that some code and projects cannot be published due to confidentiality agreements with the companies and organizations I have worked with. These unpublished components often include proprietary algorithms, sensitive data, or internal tools that are not publicly shareable.  
+</tiny>
 I
